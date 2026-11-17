@@ -1,4 +1,8 @@
 # Pharmaceutical Sales Analysis
+## Project Links
+
+Roadmap.sh Project: https://roadmap.sh/projects/pharmaceutical-sales-data
+GitHub Repository: https://github.com/srinidhiBhat21/Pharmaceutical-sales-analysis.git
 
 ## Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of pharmaceutical sales data using Python. The objective is to identify sales trends, top-performing drug categories, and monthly sales patterns.
